@@ -1,0 +1,15 @@
+{
+    "name": "igor/rabbitmq_test_project",
+    "description": "An example task assigned by Start Mobile",
+    "type": "project",
+    "require": {
+        "php-amqplib/php-amqplib": "^2.11"
+    },
+    "license": "None",
+    "authors": [
+        {
+            "name": "IgorkoGR",
+            "email": "igor47xgrabar@gmail.com"
+        }
+    ]
+}
